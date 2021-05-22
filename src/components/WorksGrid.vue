@@ -13,6 +13,7 @@
      
           <div class="flex-container">  
              <!-- <div class="bg"></div> -->
+           
             
             <router-view />
             
@@ -45,6 +46,7 @@ export default {
 </script>
 
 <style>
+
 hr{
    border: 1px solid rgba(47, 234, 187, 0.527);
    opacity: 0;

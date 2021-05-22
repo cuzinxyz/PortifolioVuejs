@@ -6,6 +6,7 @@
       v-for="desktop in desktop"
       :key="desktop.title"
       :desktop="desktop"
+      data-aos="fade-up"
     >
       <!-- <div class="img-icon">
           <img class="pro" :src="require(`@/assets/static/svg/${work.icons}`)" />

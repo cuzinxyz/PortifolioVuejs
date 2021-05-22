@@ -6,6 +6,7 @@
       v-for="Games in Games"
       :key="Games.title"
       :Games="Games"
+      data-aos="fade-up"
     >
       <!-- <div class="img-icon">
           <img class="pro" :src="require(`@/assets/static/svg/${work.icons}`)" />
