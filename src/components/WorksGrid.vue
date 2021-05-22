@@ -55,7 +55,7 @@ hr{
 .container-work {
   max-width: 90%;
   margin: 0 auto;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   /* background: #eee; */
   /* padding: 30px; */
   

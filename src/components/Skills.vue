@@ -272,4 +272,11 @@ width: 100%;
   
 }
 }
+@media (max-width:500px) {
+ .flip-box-back h3{
+   margin-top: 15%;
+     font-size: 1.5vw;
+     margin-left: -4%;
+ }
+}
 </style>
