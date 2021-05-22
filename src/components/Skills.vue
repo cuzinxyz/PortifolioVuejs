@@ -276,7 +276,7 @@ width: 100%;
  .flip-box-back h3{
    margin-top: 15%;
      font-size: 1.5vw;
-     margin-left: -6%;
+     margin-left: -8%;
  }
 }
 </style>
