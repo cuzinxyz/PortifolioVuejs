@@ -55,7 +55,7 @@
           data-aos-duration="4000"
           style="transition-delay: 1s; transition-duration: 2000ms"
         >
-          <span>Iniciar um projeto?</span>
+          <span>Vamos Conversar?</span>
         </div>
       </section>
     </div>
@@ -155,7 +155,7 @@ footer {
   display: flex;
   justify-content: left;
   align-items: center;
-
+margin-top: -1%;
   width: 50%;
 }
 

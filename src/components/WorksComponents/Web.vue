@@ -1,6 +1,6 @@
 <template>
   <div class="painel-works">
-    <!-- <h1>Web  </h1> -->
+    
     <div
       class="card-container"
       v-for="work in work"

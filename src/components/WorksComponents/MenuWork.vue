@@ -7,16 +7,20 @@
     <router-link class="btn" to="/games" active-class="active"
       >Games</router-link
     >
-    <router-link class="btn" to="/desktop" active-class="active"
-      >Desktop</router-link
+    <router-link class="btn" @click="saveSession()" to="/desktop" active-class="active"
+      >
+     
+      Desktop</router-link
     >
   </nav>
 </template>
 
 <script>
 export default {
-  
-};
+
+  }
+
+
 </script>
 
 <style>
