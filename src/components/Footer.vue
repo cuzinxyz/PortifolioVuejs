@@ -55,7 +55,7 @@
           data-aos-duration="4000"
           style="transition-delay: 1s; transition-duration: 2000ms"
         >
-          <span>Vamos Conversar?</span>
+          <span>Deixe um FeedBack</span>
         </div>
       </section>
     </div>

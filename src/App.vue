@@ -51,12 +51,11 @@ import Menu from "./components/Menu.vue";
 import Home from "./components/Home.vue";
 import SkillsGrid from "./components/SkillsGrid.vue";
 import Footer from "./components/Footer.vue";
-import AOS from 'aos';
-import 'aos/dist/aos.css'; 
+
 /*arrays*/
 import skills from "./util/skillsArray";
 import works from "./util/worksArray";
- AOS.init();
+ 
 export default {
  
   components: { WorksGrid, Menu, Home, SkillsGrid, Footer },
